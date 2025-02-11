@@ -1,0 +1,8 @@
+streamlit==1.17.0
+langchain-ollama
+chromadb
+requests
+duckduckgo_search
+sentence-transformers
+fitz
+wordcloud
