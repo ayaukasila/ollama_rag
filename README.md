@@ -27,8 +27,8 @@ This project is a Collaborative AI-Powered Knowledge Base built using Streamlit,
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/ai-knowledge-base.git
-cd ai-knowledge-base
+git clone https://github.com/ayaukasila/ollama_rag.git
+cd ollama_rag
 ```
 
 ### 2. Create a Virtual Environment
