@@ -6,3 +6,4 @@ duckduckgo_search
 sentence-transformers
 fitz
 wordcloud
+altair
