@@ -2,8 +2,8 @@ streamlit==1.17.0
 langchain-ollama
 chromadb
 requests
-duckduckgo_search
+duckduckgo-search
 sentence-transformers
 fitz
 wordcloud
-altair
+altair==5.0.1
